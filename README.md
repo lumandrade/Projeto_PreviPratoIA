@@ -133,12 +133,16 @@ Este projeto marca o **começo da minha jornada com IA aplicada**, mostrando ded
 
 **Luma Andrade**
 LinkedIn: *https://www.linkedin.com/in/lumawww-andrade-ferreira-2b973a245?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app*
+---
 GitHub: *https://github.com/lumandrade?tab=repositories*
+---
 E-mail: *luma.comercialandrade@gmail.com*
 
 ---
+![Execução do PreviPrato](imagens/ProjetoExecutado.png)
 
 ## ✔️ Nota sobre o uso de IA
 
 Este projeto foi desenvolvido com apoio de ferramentas de IA para estudo, pesquisa e escrita técnica, mas o desenvolvimento real foi conduzido por mim de ponta a ponta.
+
 
